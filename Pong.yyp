@@ -1,10 +1,13 @@
 {
   "resources": [
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},"order":1,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
+    {"id":{"name":"spr_paddle","path":"sprites/spr_paddle/spr_paddle.yy",},"order":2,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":0,},
+    {"id":{"name":"obj_options","path":"objects/obj_options/obj_options.yy",},"order":3,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":0,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
+    {"id":{"name":"obj_paddle","path":"objects/obj_paddle/obj_paddle.yy",},"order":2,},
+    {"id":{"name":"obj_epaddle","path":"objects/obj_epaddle/obj_epaddle.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -45,7 +48,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.577",
   },
   "resourceVersion": "1.4",
   "name": "Pong",
