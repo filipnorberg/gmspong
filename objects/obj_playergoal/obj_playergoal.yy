@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_paddle",
-    "path": "sprites/spr_paddle/spr_paddle.yy",
+    "name": "spr_playergoal",
+    "path": "sprites/spr_playergoal/spr_playergoal.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_epaddle",
+  "name": "obj_playergoal",
   "tags": [],
   "resourceType": "GMObject",
 }
